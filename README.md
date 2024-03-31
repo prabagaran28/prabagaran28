@@ -1,4 +1,4 @@
-
+![logo](https://github.com/prabagaran28/prabagaran28/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Prabagaran</h1>
 <h3 align="center">A passionate Embedded software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshorts/3848914/programmer.gif">
